@@ -7,7 +7,7 @@ https://img.shields.io/github/license/wiskerpaddy/cpp_learning
 this is training repository about c++.<br>
 i'll show you how to solve problem.<br>
 training algorithm and so on...
-i'm advantage of "paiza" [URL]( https://paiza.jp/works/mondai/c_rank_level_up_problems/problem_index?language_uid=c-plus-plus )<br>
+i'm advantage of [paiza]( https://paiza.jp/works/mondai/c_rank_level_up_problems/problem_index?language_uid=c-plus-plus )<br>
 
 ## Dependency
 gcc version 6.3.0 <br>
